@@ -1,6 +1,9 @@
-# ML Course Final Project - Gesture Control Game
+# Gesture Control Game - Deployed Front End
 
 This project implements a gesture-controlled game using machine learning for gesture recognition. Players can control the game using hand gestures captured through their webcam.
+
+# Link of deployment
+https://zad-walid.github.io/
 
 ## 🚀 Quick Start
 
